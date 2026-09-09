@@ -29,3 +29,23 @@ Both methods were analyzed based on time and execution performance.
 Conclusion 
 Both approaches successfully produced the required results.
 Iteration is generally simpler, while recursion is useful for problems with repeated subproblems.
+
+practical 5
+Summary
+The 0/1 Knapsack problem was implemented using Dynamic Programming in Python with user input and execution-time measurement.
+The algorithm finds the maximum possible profit within the given knapsack capacity with O(n × W) time complexity.
+
+ conclusion
+Dynamic Programming provides an efficient solution to the Knapsack problem by storing previously calculated results.
+The program successfully calculates the maximum profit and measures its execution time.
+
+practical 6
+Summary
+Matrix Chain Multiplication was implemented using Dynamic Programming in Python with user input and execution-time measurement.
+The algorithm finds the minimum number of scalar multiplications with a time complexity of O(n³).
+
+Conclusion
+Dynamic Programming efficiently determines the optimal order for multiplying a chain of matrices.
+The program successfully calculates the minimum multiplication cost and measures its execution time.
+
+
