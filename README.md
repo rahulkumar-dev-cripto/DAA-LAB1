@@ -48,4 +48,19 @@ Conclusion
 Dynamic Programming efficiently determines the optimal order for multiplying a chain of matrices.
 The program successfully calculates the minimum multiplication cost and measures its execution time.
 
+practical 7
+ Summary
+The Coin Exchange program uses Python to calculate the number of coins needed for a given amount using a greedy approach.
+
+Conclusion
+It provides an easy way to understand coin exchange, loops, user input, and basic algorithm efficiency in Python.
+
+
+ practical 8
+  Summary
+BFS and DFS are graph traversal algorithms used to visit all connected vertices in a graph using Python.
+
+Conclusion
+BFS explores level by level, while DFS explores deeply before backtracking, and both have a time complexity of **O(V + E)**.
+
 
