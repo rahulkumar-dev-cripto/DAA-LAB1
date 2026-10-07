@@ -61,6 +61,12 @@ It provides an easy way to understand coin exchange, loops, user input, and basi
 BFS and DFS are graph traversal algorithms used to visit all connected vertices in a graph using Python.
 
 Conclusion
-BFS explores level by level, while DFS explores deeply before backtracking, and both have a time complexity of **O(V + E)**.
+BFS explores level by level, while DFS explores deeply before backtracking, and both have a time complexity of O(V + E)
+
+practical 9
+Summary: Minimum Spanning Tree (MST) connects all vertices of a weighted graph with the minimum total edge weight using Kruskal’s Algorithm. The program accepts user input and calculates execution time and time complexity O(Elog⁡E)O(E\log E)O(ElogE).
+
+Conclusion: The program successfully finds the Minimum Spanning Tree without creating cycles and displays the minimum total cost. It also measures execution time to evaluate the algorithm’s performance.
+
 
 
